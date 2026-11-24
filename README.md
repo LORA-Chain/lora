@@ -69,6 +69,9 @@ Recommended:
 
 ### Full node on the main Lora network
 
+- Chain ID: `6359` (`0x18d7`)
+- Block explorer: [LORA Explorer](https://explorer.lorachain.org/)
+
 By far the most common scenario is people wanting to simply interact with the Lora
 network: create accounts; transfer funds; deploy and interact with contracts. For this
 particular use case, the user doesn't care about years-old historical data, so we can
